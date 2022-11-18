@@ -1,5 +1,6 @@
 * BugHunt Solutions
 
-*** Authors
-** Conor Jack Fairclough
-** Joao Goncalves
+Authors
+
+Conor Jack Fairclough
+Joao Goncalves
