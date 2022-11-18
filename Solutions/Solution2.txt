@@ -1,0 +1,2 @@
+// Line 4
+return points.size() == 1 ? points.get(1) : null;
